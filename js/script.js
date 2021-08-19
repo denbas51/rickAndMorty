@@ -91,3 +91,4 @@ async function filterCharacters(option) {
   data.forEach((character) => createCard(character))
 }
 createCard()
+console.log("hello, world")
